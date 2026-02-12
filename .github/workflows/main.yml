@@ -57,6 +57,7 @@ jobs:
 
           gh release create "$TAG" \
             --title "$TITLE" \
+            --notes "" \
             --target ${{ github.sha }} \
             custom.mrs
       
