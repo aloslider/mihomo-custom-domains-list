@@ -57,7 +57,7 @@ jobs:
 
           gh release create "$TAG" \
             --title "$TITLE" \
-            --notes "" \
+            --notes "Ruleset update" \
             --target ${{ github.sha }} \
             custom.mrs
       
