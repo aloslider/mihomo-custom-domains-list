@@ -1353,6 +1353,7 @@ store.supercell.com
 strana.news
 strana.today
 strava.com
+stripe.com
 studychat.app
 stuff.co.nz
 stulchik.net
