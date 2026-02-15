@@ -505,12 +505,14 @@ freemedia.io
 freemyip.com
 freeones.com
 fujitsu.com
+futo.org
 futurelearn.com
 fw-download.ubnt.com
 fw-update.ubnt.com
 fxnetworks.com
 g2a.com
 g711.org
+gaijin.net
 gallery.zetalliance.org
 gambody.com
 game.brawlstarsgame.com
@@ -706,6 +708,7 @@ kara.su
 kasparov.ru
 kavkaz-uzel.eu
 kavkazr.com
+kde.org
 keepgrowing.in
 keepsolid.com
 kemono.party
@@ -973,6 +976,7 @@ octopus.do
 octostatic.com
 oculus.com
 ohmyswift.ru
+ohmyz.sh
 oi.legal
 okx.com
 olx.ua
