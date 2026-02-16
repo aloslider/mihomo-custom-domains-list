@@ -814,6 +814,7 @@ miracleptr.wordpress.com
 mixcloud.com
 mobile.events.data.microsoft.com
 modrinth.com
+modworkshop.net
 moneypuck.com
 mongodb.com
 mongodb.net
@@ -1224,6 +1225,7 @@ sophos.com
 sora.com
 soundcloud.cloud
 soundcloud.com
+sourceforge.io
 sovetromantica.com
 spacelift.io
 speedtest.net
@@ -1557,5 +1559,6 @@ zf.com
 zimbra.com
 zimbra.org
 znanija.com
+znix.xyz
 zohomail.com
 zoosk.com
